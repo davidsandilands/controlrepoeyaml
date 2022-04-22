@@ -5,6 +5,12 @@ forge 'https://forge.puppet.com'
 #mod 'puppetlabs/inifile', '5.0.1'
 #mod 'puppetlabs/stdlib',  '7.0.1'
 #mod 'puppetlabs/concat',  '7.0.1'
+mod 'puppet-hiera', '5.0.1'
+mod 'puppetlabs-stdlib', '8.1.0'
+mod 'puppetlabs-puppetserver_gem', '1.1.1'
+mod 'abuxton-puppet_mountpoint', '0.1.0'
+mod 'puppetlabs-hocon', '1.1.0'
+mod 'puppetlabs-inifile', '5.2.0'
 
 # Modules from Git
 # Examples: https://github.com/puppetlabs/r10k/blob/master/doc/puppetfile.mkd#examples
